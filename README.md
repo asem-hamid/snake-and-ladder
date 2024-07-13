@@ -44,6 +44,8 @@ gcc -o snake_ladder.c -o snake_ladder
 ./snake_ladder
 ```
 
+4. Follow the on-screen instructions to roll the dice, move through the board, and reach the final square.
+
 ## Gameplay 
 
 Check out the [gameplay](https://github.com/asem-hamid/snake-and-ladder/blob/main/src/gameplay.md) file for detailed information on the gameplay.
