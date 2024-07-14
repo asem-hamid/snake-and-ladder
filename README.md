@@ -1,5 +1,8 @@
 # Snake and Ladder Game
 
+![snakenladder](https://github.com/user-attachments/assets/9642f1a9-121a-42be-a42e-95e39baa31b1)
+
+
 Welcome to the Snake and Ladder Game! This repository contains a console-based implementation of 
 the classic Snake and Ladder game in C. This game is a mini project created to demonstrate the fundamentals of 
 C programming in a fun and interactive way. It is designed to be simple and easy to understand, 
