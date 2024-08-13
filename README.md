@@ -42,7 +42,7 @@ cd src
 3. **Run the Code:** Compile and run the examples using a C compiler 
 
 ```sh
-gcc -o snake_ladder.c -o snake_ladder
+gcc snake_ladder.c -o snake_ladder
 
 ./snake_ladder
 ```
